@@ -14,7 +14,9 @@ What things you need to install the software and how to install them
  
   # Libraries
   -[materialsearchview](https://github.com/MiguelCatalan/MaterialSearchView) - For search video
+  
   -[Retrofit](https://square.github.io/retrofit/) - For connection to the google api
+  
   -[Picasso](https://square.github.io/picasso/) - For upload thumbnails
  
  # ScreenShots
